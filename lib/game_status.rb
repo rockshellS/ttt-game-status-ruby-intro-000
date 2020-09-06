@@ -57,6 +57,9 @@ end
     return false
   end
 end
+
+def winner(board)
+  
   
   
   
